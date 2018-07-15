@@ -324,7 +324,7 @@ def get_counts():
 
 
 运行一下：  
-![图二]()
+![图二](https://github.com/zloveh/ProxyPool/blob/master/image/2.png)
 
 
 获取代理方法：  
